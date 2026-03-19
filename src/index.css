@@ -1,9 +1,0 @@
-@import "tailwindcss";
-
-body {
-  font-family: "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Microsoft YaHei", sans-serif;
-}
-
-h1, h2, h3 {
-  letter-spacing: -0.03em;
-}
